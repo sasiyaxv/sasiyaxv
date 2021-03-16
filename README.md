@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sasiyaxv
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning java, Machine learning
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sashmindairanga@ieee.org
 
 <!---
