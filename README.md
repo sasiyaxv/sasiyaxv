@@ -4,10 +4,6 @@ Sashminda Withanage
 
 Undergraduate at University of Westminster.
 
-Diploma in Software Engneering.
-
-Advanced diploma in English Language.
-
 ----------- Interested Areas -----------
 
 Software development
