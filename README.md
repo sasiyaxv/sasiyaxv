@@ -12,7 +12,6 @@ Web development
 
 Data science and Machine learning
 
-Database Management Systems
 
 <!---
 sasiyaxv/sasiyaxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
