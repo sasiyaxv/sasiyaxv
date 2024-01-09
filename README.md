@@ -9,9 +9,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently an undergraduate at University of Westminster
+- 🔭 I’m currently a graduate of University of Westminster
   
-- 🌱 I’m currently learning Swift, Java, React 
+- 🌱 I’m currently working as a associate software engineer 
     
 - 💬 Ask me about Java, JavaScript
   
