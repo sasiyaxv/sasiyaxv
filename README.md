@@ -9,7 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently a graduate of University of Westminster
+- 🔭 I’m a graduate of University of Westminster
   
 - 🌱 I’m currently working as a associate software engineer 
     
