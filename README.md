@@ -11,7 +11,7 @@
 
 - 🔭 I’m a graduate of University of Westminster
   
-- 🌱 I’m currently working as a associate software engineer 
+- 🌱 I’m currently working as a Software engineer 
     
 - 💬 Ask me about Java, JavaScript
   
